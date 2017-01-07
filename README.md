@@ -6,9 +6,9 @@ This application displays the current weather based on your Geolocation (which m
 
 You must get an API key on OpenWeather and add it to your [constants](src/constants/index.js)
 
-`$ git clone https://github.com/Oxyrus/LocalWeather.git`
-`$ cd LocalWeather`
-`$ npm i`
-`$ npm start`
+1. `$ git clone https://github.com/Oxyrus/LocalWeather.git`
+2. `$ cd LocalWeather`
+3. `$ npm i`
+4. `$ npm start`
 
 Visit [localhost:3000](localhost:3000) to see it in action.
