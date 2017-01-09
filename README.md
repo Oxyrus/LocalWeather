@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# LocalWeather (WIP)
-=======
-# LocalWeather (WIP) 
->>>>>>> b5af281d3e4018742b7cd46c96fc896d64ef7734
+# LocalWeather
 This application displays the current weather based on your Geolocation (which may be, or may not, be accurate).
 
 ## Running
