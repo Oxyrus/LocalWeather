@@ -10,4 +10,4 @@ You must get an API key on OpenWeather and add it to your [constants](src/consta
 3. `$ npm i`
 4. `$ npm start`
 
-Visit [localhost:3000](localhost:3000) to see it in action.
+Visit [http://localhost:3000](http://localhost:3000) to see it in action.
