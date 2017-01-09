@@ -1,6 +1,5 @@
-# LocalWeather
-
-This application displays the current weather based on your Geolocation (which may be, or not, accurate).
+# LocalWeather (WIP)
+This application displays the current weather based on your Geolocation (which may be, or may not, be accurate).
 
 ## Running
 
